@@ -4,3 +4,4 @@ dist
 *.egg-info
 *.pyc
 botbot-facebook.conf
+ainubot-*.conf
